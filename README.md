@@ -7,7 +7,7 @@ Permanent memory for AI agents. A 426-token prompt, a script, plug and play.
 ## Install
 
 ```sh
-curl -fsSL https://raw.githubusercontent.com/pyrex41/OptMem/main/install.sh | sh
+curl -fsSL https://raw.githubusercontent.com/VictorTaelin/OptMem/main/install.sh | sh
 ```
 
 It prints a `## Memory` block. Paste that at the top of your agent's
